@@ -1,0 +1,4 @@
+interface:
+  display_name: "设计稿还原"
+  short_description: "高保真还原 Figma 设计稿并完整保留切图图标资产"
+  default_prompt: "使用 $designfigma-builingbuiling 按 Figma 精确节点、设计规范、真实资产和浏览器截图验收来还原前端页面。"
