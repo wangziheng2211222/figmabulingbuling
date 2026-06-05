@@ -1,0 +1,14 @@
+{
+  "skills": [
+    {
+      "name": "designfigma-builingbuiling",
+      "description": "高保真还原 Figma 设计稿到前端代码。读取精确 Figma 节点、保留真实资产、按需加载蝉圈圈规范，并用浏览器截图验收。",
+      "files": [
+        "SKILL.md",
+        "references/index.md",
+        "references/chanquanquan-design.md",
+        "agents/openai.yaml"
+      ]
+    }
+  ]
+}
